@@ -1,1 +1,1 @@
-# laboratoriosimpulo06
+# laboratorios
